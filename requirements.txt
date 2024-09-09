@@ -1,6 +1,6 @@
 Flask==3.0.3
 Werkzeug==3.0.3
-ultralytics==8.0.87
+ultralytics
 numpy==1.25.2
 Pillow==10.0.1
 opencv-python==4.8.0.74
